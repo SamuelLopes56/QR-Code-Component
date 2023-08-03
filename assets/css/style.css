@@ -55,6 +55,8 @@ body {
 }
 
 .text{
+    max-width: 260px;
+    margin-inline: auto;
     padding: 25px 10px;
 }
 
